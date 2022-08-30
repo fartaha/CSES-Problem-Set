@@ -1,6 +1,6 @@
 """
     This code get an integer input from the user and generate a sequence as follows:
-    If n is even, it is devided by two and if it is odd, it is multiplied by 3 plus one
+    If n is even, it is divided by two and if it is odd, it is multiplied by 3 plus one
     untill the seq reaches 1. Time limit: 1.00 s Memory limit: 512 MB
         Example:
             input = 3
